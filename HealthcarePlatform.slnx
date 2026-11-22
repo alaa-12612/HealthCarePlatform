@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="Healthcare.API/Healthcare.API.csproj" />
+  <Project Path="Healthcare.API/Healthcare.API.csproj" Id="6471f8f8-d3ee-4eb8-ac02-01221df72b24" />
   <Project Path="Healthcare.Application/Healthcare.Application.csproj" />
   <Project Path="Healthcare.Domain/Healthcare.Domain.csproj" />
   <Project Path="Healthcare.Infrastructure/Healthcare.Infrastructure.csproj" />

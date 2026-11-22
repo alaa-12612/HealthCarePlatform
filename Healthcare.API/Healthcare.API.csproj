@@ -8,13 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="10.0.0" />
-    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="10.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.13" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\Healthcare.Application\Healthcare.Application.csproj" />
-    <ProjectReference Include="..\Healthcare.Infrastructure\Healthcare.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

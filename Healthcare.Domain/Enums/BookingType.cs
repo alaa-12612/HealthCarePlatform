@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Healthcare.Domain.Enums
+namespace Healthcare.Domain.Enums;
+
+public enum BookingType
 {
-    internal class BookingType
-    {
-    }
+    Urgent = 1,
+    Scheduled = 2
 }

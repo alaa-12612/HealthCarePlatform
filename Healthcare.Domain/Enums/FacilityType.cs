@@ -2,9 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Healthcare.Domain.Enums
+namespace Healthcare.Domain.Enums;
+
+public enum FacilityType
 {
-    internal class FacilityType
-    {
-    }
+    Hospital = 1,
+    Clinic = 2,
+    MedicalCenter = 3
 }

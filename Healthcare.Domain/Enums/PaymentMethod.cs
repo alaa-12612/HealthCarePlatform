@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Healthcare.Domain.Enums
+namespace Healthcare.Domain.Enums;
+
+public enum PaymentMethod
 {
-    internal class PaymentMethod
-    {
-    }
+    Cash = 1,
+    Online = 2
 }
